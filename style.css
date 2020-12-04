@@ -52,7 +52,7 @@ main{
 }
 
 #landing-image{
-    background: url(https://source.unsplash.com/-36fsA0wDLA);
+    background: url(profile.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -90,6 +90,7 @@ main{
     padding-left: 1rem;
     padding-right: 1rem;
 }
+
 
  p{
     padding: 0.8rem;
